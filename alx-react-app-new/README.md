@@ -14,7 +14,7 @@ This task demonstrates how to:
 ### Run the project locally:
 
 ```bash
-git clone https://github.com/Gabrieledesie/alx-react-app-new.git
+git clone https://github.com/vapeasnl/alx-react-app-new.git
 cd alx-react-app-new
 npm install
 npm run dev
